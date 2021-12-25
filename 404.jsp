@@ -49,7 +49,7 @@
 		<div>&nbsp;</div>
 		<div class="tips">
 			<img src="images/warn.png">
-			<span class="warn">很抱歉，您要访问的页面不存在...</span>
+			<span class="warn">很抱歉，您要访问的页面不存在!</span>
 		</div>
 		<div class="link">
 			<span id="second">3</span>
